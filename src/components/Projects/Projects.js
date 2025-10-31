@@ -49,7 +49,7 @@ function Projects() {
               isBlog={false}
               title="Visiboo Agent Dashboard"
               description="Visiboo Agent Dashboard — a platform that allows agents to register, create unique IDs or referral codes, onboard customers, and earn loyalty points and rewards that can be redeemed for exclusive benefits."
-            // ghLink="https://github.com/soumyajit4419/Editor.io"
+            // ghLink=""
             // demoLink=""
             />
           </Col>
@@ -60,7 +60,7 @@ function Projects() {
               isBlog={false}
               title="Visiboo Agent App"
               description="Visiboo Agent Dashboard — a platform that allows agents to register, create unique IDs or referral codes, onboard customers, and earn loyalty points and rewards that can be redeemed for exclusive benefits."
-            // ghLink="https://github.com/soumyajit4419/Editor.io"
+            // ghLink=""
             // demoLink=""
             />
           </Col>
@@ -71,7 +71,7 @@ function Projects() {
               isBlog={false}
               title="Visiboo Customer"
               description="A Mobile app which will deal with loyalty points for customer and seller. Scan UPI QR code and based on the service provided you can provide feedback and in return you will get Loayualty rewards points for your next visit."
-            // ghLink="https://github.com/soumyajit4419/Editor.io"
+            // ghLink=""
             // demoLink=""
             />
           </Col>
@@ -82,7 +82,7 @@ function Projects() {
               isBlog={false}
               title="Visiboo Seller"
               description="A Mobile app which will deal with loyalty points for customer and seller. Scan UPI QR code and based on the service provided you can provide feedback and in return you will get Loayualty rewards points for your next visit."
-            // ghLink="https://github.com/soumyajit4419/Editor.io"
+            // ghLink=""
             // demoLink=""
             />
           </Col>
